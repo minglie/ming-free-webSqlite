@@ -395,3 +395,20 @@
     select * from resource where parent_id=-1;
      
 2019-6-10 23:26:53  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 00:15:00 select sql createSql from sqlite_master where type='table' 
+2019-6-11 00:15:01 
+          select name createSql from sqlite_master where type='table';
+     
+2019-6-11 00:15:02 
+        select * from resource  limit 0,20;
+
+         
+2019-6-11 00:15:02  select count(1) c from resource; 
+2019-6-11 00:15:10 
+       delete from resource where id in (191);
+     
+2019-6-11 00:15:10 
+        select * from resource  limit 0,20;
+
+         
+2019-6-11 00:15:10  select count(1) c from resource; 
