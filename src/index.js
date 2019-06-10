@@ -35,7 +35,7 @@ Db.doSql=function doSql(sql){
 
 
 var app=M.server();
-app.listen(8888);
+app.listen(8889);
 M.log_console_enable=false;//将日志输出到控制台
 
 
@@ -46,8 +46,17 @@ app.get("/",async function (req,res) {
 app.post("/doSql",async function (req,res) {
     M.log(req.params.sql);
     try{
-        var rows= await Db.doSql(req.params.sql);
-        res.send(M.result(rows));
+        let sqlist=req.params.sql.split(";")
+        if(sqlist.length>2){
+            for (let i=0;i<sqlist.length-1;i++){
+                await Db.doSql(sqlist[i]);
+            }
+            res.send(M.result("ok"));
+        }else {
+            var rows= await Db.doSql(req.params.sql);
+            res.send(M.result(rows));
+        }
+
     }catch (e){
         res.send(M.result(e,false));
     }

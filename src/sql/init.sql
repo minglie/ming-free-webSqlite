@@ -1,0 +1,1 @@
+CREATE TABLE resource (id INTEGER NOT NULL, name varchar (200) DEFAULT NULL, url varchar (200) DEFAULT NULL, parent_id INTEGER NOT NULL, PRIMARY KEY (id))

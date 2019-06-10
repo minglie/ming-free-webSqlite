@@ -1,0 +1,1 @@
+M=require("ming_node");M.setAttribute("a",{da:88})a=M.getAttribute("a")console.log(a.da)
