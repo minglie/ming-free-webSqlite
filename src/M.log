@@ -412,3 +412,895 @@
 
          
 2019-6-11 00:15:10  select count(1) c from resource; 
+2019-6-11 22:55:24 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 22:55:24 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 22:55:24  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 22:55:25 
+        select * from resource where parent_id !=-1 and parent_id=224  limit 0,20;
+
+         
+2019-6-11 22:55:25  select count(1) c  from resource where parent_id !=-1 and parent_id=224; 
+2019-6-11 22:55:26 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,20;
+
+         
+2019-6-11 22:55:26  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 22:55:26 
+        select * from resource where parent_id !=-1 and parent_id=194  limit 0,20;
+
+         
+2019-6-11 22:55:26  select count(1) c  from resource where parent_id !=-1 and parent_id=194; 
+2019-6-11 22:55:27 
+        select * from resource where parent_id !=-1 and parent_id=192  limit 0,20;
+
+         
+2019-6-11 22:55:27  select count(1) c  from resource where parent_id !=-1 and parent_id=192; 
+2019-6-11 22:55:27 
+        select * from resource where parent_id !=-1 and parent_id=206  limit 0,20;
+
+         
+2019-6-11 22:55:27  select count(1) c  from resource where parent_id !=-1 and parent_id=206; 
+2019-6-11 22:55:28 
+        select * from resource where parent_id !=-1 and parent_id=226  limit 0,20;
+
+         
+2019-6-11 22:55:28  select count(1) c  from resource where parent_id !=-1 and parent_id=226; 
+2019-6-11 23:02:14 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:02:14 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:02:14  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:02:23 
+        select * from resource where parent_id !=-1 and parent_id=206  limit 0,20;
+
+         
+2019-6-11 23:02:23  select count(1) c  from resource where parent_id !=-1 and parent_id=206; 
+2019-6-11 23:02:23 
+        select * from resource where parent_id !=-1 and parent_id=224  limit 0,20;
+
+         
+2019-6-11 23:02:23  select count(1) c  from resource where parent_id !=-1 and parent_id=224; 
+2019-6-11 23:02:24 
+        select * from resource where parent_id !=-1 and parent_id=229  limit 0,20;
+
+         
+2019-6-11 23:02:24  select count(1) c  from resource where parent_id !=-1 and parent_id=229; 
+2019-6-11 23:02:24 
+        select * from resource where parent_id !=-1 and parent_id=239  limit 0,20;
+
+         
+2019-6-11 23:02:24  select count(1) c  from resource where parent_id !=-1 and parent_id=239; 
+2019-6-11 23:02:25 
+        select * from resource where parent_id !=-1 and parent_id=288  limit 0,20;
+
+         
+2019-6-11 23:02:25  select count(1) c  from resource where parent_id !=-1 and parent_id=288; 
+2019-6-11 23:02:25 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,20;
+
+         
+2019-6-11 23:02:25  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 23:02:25 
+        select * from resource where parent_id !=-1 and parent_id=194  limit 0,20;
+
+         
+2019-6-11 23:02:26  select count(1) c  from resource where parent_id !=-1 and parent_id=194; 
+2019-6-11 23:02:26 
+        select * from resource where parent_id !=-1 and parent_id=192  limit 0,20;
+
+         
+2019-6-11 23:02:26  select count(1) c  from resource where parent_id !=-1 and parent_id=192; 
+2019-6-11 23:02:26 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,20;
+
+         
+2019-6-11 23:02:26  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 23:02:27 
+        select * from resource where parent_id !=-1 and parent_id=229  limit 0,20;
+
+         
+2019-6-11 23:02:27  select count(1) c  from resource where parent_id !=-1 and parent_id=229; 
+2019-6-11 23:02:28 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:02:28 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:02:28  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:02:34 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:02:34 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:02:35  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:04:22 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:04:22 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:04:22  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:04:24 
+        select * from resource where parent_id !=-1 and parent_id=229  limit 0,20;
+
+         
+2019-6-11 23:04:24  select count(1) c  from resource where parent_id !=-1 and parent_id=229; 
+2019-6-11 23:04:24 
+        select * from resource where parent_id !=-1 and parent_id=224  limit 0,20;
+
+         
+2019-6-11 23:04:24  select count(1) c  from resource where parent_id !=-1 and parent_id=224; 
+2019-6-11 23:04:25 
+        select * from resource where parent_id !=-1 and parent_id=206  limit 0,20;
+
+         
+2019-6-11 23:04:25  select count(1) c  from resource where parent_id !=-1 and parent_id=206; 
+2019-6-11 23:04:25 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,20;
+
+         
+2019-6-11 23:04:25  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 23:04:26 
+        select * from resource where parent_id !=-1 and parent_id=229  limit 0,20;
+
+         
+2019-6-11 23:04:26  select count(1) c  from resource where parent_id !=-1 and parent_id=229; 
+2019-6-11 23:04:26 
+        select * from resource where parent_id !=-1 and parent_id=239  limit 0,20;
+
+         
+2019-6-11 23:04:26  select count(1) c  from resource where parent_id !=-1 and parent_id=239; 
+2019-6-11 23:04:27 
+        select * from resource where parent_id !=-1 and parent_id=192  limit 0,20;
+
+         
+2019-6-11 23:04:27  select count(1) c  from resource where parent_id !=-1 and parent_id=192; 
+2019-6-11 23:04:28 
+        select * from resource where parent_id !=-1 and parent_id=194  limit 0,20;
+
+         
+2019-6-11 23:04:28  select count(1) c  from resource where parent_id !=-1 and parent_id=194; 
+2019-6-11 23:04:28 
+        select * from resource where parent_id !=-1 and parent_id=226  limit 0,20;
+
+         
+2019-6-11 23:04:28  select count(1) c  from resource where parent_id !=-1 and parent_id=226; 
+2019-6-11 23:04:29 
+        select * from resource where parent_id !=-1 and parent_id=288  limit 0,20;
+
+         
+2019-6-11 23:04:29  select count(1) c  from resource where parent_id !=-1 and parent_id=288; 
+2019-6-11 23:05:04 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:05:04 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:05:04  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:14 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:14 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:14  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:14 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:14 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:14  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:15 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:15 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:15  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:16 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:16 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:16  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:19 
+        select * from resource where parent_id !=-1  limit 0,50;
+
+         
+2019-6-11 23:06:19  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:20 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:20 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:20  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:23 
+        select * from resource where parent_id !=-1  limit 0,50;
+
+         
+2019-6-11 23:06:23  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:29 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:29 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:29  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:33 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:33 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:33  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:34 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:34 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:34  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:53 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:53 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:53  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:54 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:06:54 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:54  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:06:59 
+        select * from resource where parent_id !=-1  limit NaN,NaN;
+
+         
+2019-6-11 23:06:59 Error: SQLITE_ERROR: no such column: NaN 
+2019-6-11 23:06:59 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:06:59  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:02 
+        select * from resource where parent_id !=-1  limit NaN,NaN;
+
+         
+2019-6-11 23:07:02 Error: SQLITE_ERROR: no such column: NaN 
+2019-6-11 23:07:02 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:02  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:02 
+        select * from resource where parent_id !=-1  limit NaN,NaN;
+
+         
+2019-6-11 23:07:02 Error: SQLITE_ERROR: no such column: NaN 
+2019-6-11 23:07:02 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:02  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:11 
+        select * from resource where parent_id !=-1  limit 0,500;
+
+         
+2019-6-11 23:07:11 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:11  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:19 
+        select * from resource where parent_id !=-1  limit 0,5000;
+
+         
+2019-6-11 23:07:19 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:19  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:28 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:07:28 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:28  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:28 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:07:28 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:07:28  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:07:34 
+        select * from resource where parent_id !=-1 and parent_id=224  limit 0,50000;
+
+         
+2019-6-11 23:07:34  select count(1) c  from resource where parent_id !=-1 and parent_id=224; 
+2019-6-11 23:07:35 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,50000;
+
+         
+2019-6-11 23:07:35  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 23:07:36 
+        select * from resource where parent_id !=-1 and parent_id=226  limit 0,50000;
+
+         
+2019-6-11 23:07:36  select count(1) c  from resource where parent_id !=-1 and parent_id=226; 
+2019-6-11 23:07:36 
+        select * from resource where parent_id !=-1 and parent_id=239  limit 0,50000;
+
+         
+2019-6-11 23:07:36  select count(1) c  from resource where parent_id !=-1 and parent_id=239; 
+2019-6-11 23:08:11 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:11 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:11  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:12 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:12 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:12  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:13 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:13 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:13  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:17 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:17 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:17  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:18 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:18 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:18  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:21 
+        select * from resource where parent_id !=-1 and parent_id=206  limit 0,50000;
+
+         
+2019-6-11 23:08:21  select count(1) c  from resource where parent_id !=-1 and parent_id=206; 
+2019-6-11 23:08:23 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:23 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:23  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:44 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:44 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:44  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:08:45 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:08:45 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:08:45  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:09:04 
+        select * from resource where parent_id !=-1 and parent_id=211  limit 0,50000;
+
+         
+2019-6-11 23:09:04  select count(1) c  from resource where parent_id !=-1 and parent_id=211; 
+2019-6-11 23:09:42 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:09:42 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:09:42  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:09:43 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:09:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:09:43  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:11:53 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:11:53 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:11:53  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:11:53 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:11:53 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:11:53  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:30:48 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-11 23:30:48 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:30:48  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:30:52 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:30:52 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:30:52  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:30:55 
+        select * from resource where parent_id !=-1  limit 0,50000;
+
+         
+2019-6-11 23:30:55 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:30:55  select count(1) c  from resource where parent_id !=-1; 
+2019-6-11 23:32:43 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:32:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:32:44 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:32:44 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:33:02 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:33:02 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:34:38 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:34:38 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:34:39 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:34:39 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:34:43 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:34:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:06 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:06 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:07 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:07 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:24 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:24 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:49 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:49 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:50 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:50 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:52 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:52 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:53 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:53 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:53 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:53 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:54 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:54 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:54 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:54 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:35:54 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:35:54 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:36:37 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:36:37 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:36:38 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:36:38 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:37:37 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:37:37 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:37:42 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:37:42 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:37:43 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:37:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:37:43 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:37:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:39:37 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:39:37 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:39:38 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:39:38 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:39:41 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:39:41 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:00 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:00 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:05 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:05 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:30 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:30 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:30 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:30 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:31 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:33 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:34 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:36 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:58 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:59 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:40:59 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:40:59 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:02 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:02 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:05 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:05 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:22 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:22 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:26 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:26 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:27 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:27 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:41:28 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:41:28 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:42:43 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:42:43 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:42:49 
+insert into resource(parent_id,res_url,name) values
+(
+'-1','s', 'qq'
+)
+;
+ 
+2019-6-11 23:42:49 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:42:49 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:43:39 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:43:39 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:43:39 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:43:39 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:43:46 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:43:46 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:44:00 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:44:00 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:44:16 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:44:16 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:44:18 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:44:18 
+    select * from resource where parent_id=-1;
+     
+2019-6-11 23:48:20 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:48:22 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:16 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:19 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:20 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:26 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:39 
+        select * from resource where parent_id !=-1;
+         
+2019-6-11 23:49:41 
+        select * from resource where parent_id !=-1 and parent_id=2;
+         
+2019-6-11 23:49:42 
+        select * from resource where parent_id !=-1 and parent_id=1;
+         
+2019-6-11 23:49:42 
+        select * from resource where parent_id !=-1 and parent_id=2;
+         
+2019-6-11 23:49:43 
+        select * from resource where parent_id !=-1 and parent_id=2;
+         
+2019-6-11 23:49:43 
+        select * from resource where parent_id !=-1 and parent_id=1;
+         
+2019-6-11 23:54:03 update resource set res_url='dddd1111111',name='dddd' where id='4'; 
+2019-6-11 23:57:41 select * from resource; 
+2019-6-12 00:07:30 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:07:30 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:07:30  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:07:31 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:07:31 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:07:31  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:07:32 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:07:32 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:07:32  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:07:32 
+        select * from resource where parent_id !=-1 and parent_id=226  limit 0,20;
+
+         
+2019-6-12 00:07:32  select count(1) c  from resource where parent_id !=-1 and parent_id=226; 
+2019-6-12 00:07:33 
+        select * from resource where parent_id !=-1 and parent_id=239  limit 0,20;
+
+         
+2019-6-12 00:07:33  select count(1) c  from resource where parent_id !=-1 and parent_id=239; 
+2019-6-12 00:07:34 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:07:34 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:07:34  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:14:16 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:14:16 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:14:16  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:15:46 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:15:46 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:15:46  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:15:50 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:15:50 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:15:50  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:16:15 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:16:16 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:16:16  select count(1) c  from resource where parent_id !=-1; 
+2019-6-12 00:18:35 
+        select * from resource where parent_id !=-1  limit 0,20;
+
+         
+2019-6-12 00:18:35 
+    select * from resource where parent_id=-1;
+     
+2019-6-12 00:18:35  select count(1) c  from resource where parent_id !=-1; 

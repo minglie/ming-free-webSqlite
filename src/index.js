@@ -35,7 +35,7 @@ Db.doSql=function doSql(sql){
 
 
 var app=M.server();
-app.listen(8888);
+app.listen(8889);
 M.log_console_enable=false;//将日志输出到控制台
 
 
