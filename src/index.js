@@ -56,11 +56,30 @@ app.post("/doSql",async function (req,res) {
             var rows= await Db.doSql(req.params.sql);
             res.send(M.result(rows));
         }
-
     }catch (e){
         res.send(M.result(e,false));
     }
-
 })
 
 
+//自定义接口
+M.interfaceMap={};
+app.post("/interfaceDefinition",async function (req,res) {
+    if(["/","/interfaceInfo","/doSql","/interfaceDefinition"].indexOf(req.params.path)>0) {
+        res.send(M.result(req.params.path+"不可定义"))
+        return
+    }
+    if(req.params.path==""){
+        M.interfaceMap={};
+        res.send(M.result("ok"))
+        return
+    }
+    M.interfaceMap[req.params.path]=req.params.data;
+    app.get(req.params.path,(req1,res1)=>{
+        res1.send(M.interfaceMap[req.params.path]);
+    })
+    res.send(M.result("ok"))
+})
+app.get("/interfaceInfo",async function (req,res) {
+    res.send(M.result(M.interfaceMap))
+})

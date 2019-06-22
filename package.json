@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ming_node": "^0.1.5",
+    "ming_node": "^1.0.1",
     "sqlite3": "^4.0.8"
   }
 }
